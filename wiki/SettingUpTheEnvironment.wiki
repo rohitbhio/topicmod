@@ -21,3 +21,11 @@ cd ~/topicmod/data
 chmod +x *.sh
 ./unzip_data.sh
 }}}
+
+= Virtual Machine =
+
+If you're having problems, this virtual machine is all ready to go:
+http://dl.dropbox.com/u/27635323/Topicmod.ova
+http://dl.dropbox.com/u/27635323/Topicmod.txt
+
+(Be sure to update the repo.)
